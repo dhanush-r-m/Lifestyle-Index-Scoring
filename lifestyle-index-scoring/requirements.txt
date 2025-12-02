@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pydantic
+google-cloud-aiplatform>=1.60.0  # Vertex AI SDK with generative_models
+python-dotenv
+
+
